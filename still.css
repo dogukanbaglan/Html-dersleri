@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body{
+            font-family: Verdana, Geneva, Tahoma, sans-serif;
+        }
+        #div0{
+            height:100px;
+            background-color: yellow;
+        }
+        #div1{
+            height:100px;
+            background-color:blue;
+        }
+        .Dogukan{
+            height:100px;
+            background-color:pink;
+            text-align: center;
+
+        }
+        #div2{
+            height:100px;
+            background-color:green;
+        }
+
+    </style>
+</head>
+<body>
+    <div id="div0" class="Dogukan">
+        <h1>En</h1>
+    </div>
+    <div id="div1">
+        <h1>Büyük</h1>
+    </div>
+    <div id="div2">
+        <h1>Fenerbahçe</h1>
+    </div>
+</body>
+</html>
