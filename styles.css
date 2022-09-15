@@ -1,0 +1,67 @@
+body{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+#div0{
+    height:100px;
+    background-color: yellow;
+    text-align: right;
+
+}
+#div1{
+    height:100px;
+    background-color:blue;
+    color: darkgrey;
+    font-size: xx-large;
+}
+.Class{
+    height:100px;
+    background-color:pink;
+    text-align: center;
+
+}
+#div2{
+    height:100px;
+    background-color:green;
+    font-size:xx-large;
+    font-style: italic;
+    text-align: right;
+    border-style: dashed;
+    border-width: 10px;
+    border-radius: 100px;
+} 
+#div3{
+    background-color: crimson;
+    height: 300px;
+    width: 300px;
+    border-radius: 200px;
+    font-size: xx-small;
+
+}
+
+#div4{
+    text-align: center;
+    font-family: 'Nabla', cursive;
+    background-color: yellow;
+    height: 10vh;
+    font-size: large;
+    font-weight: 900;
+    font-style: italic;
+}
+#div7{
+    background-color:black;
+    height: 55vh;
+    background-image: url(https://cdn.sporx.com/img/2022/09/10/fenerbahcede_jorge_jesusun_b13ba_800.jpg);
+    
+}
+
+#div5{
+    background-color:blue;
+    height: 85vh;
+}
+#div6{
+    background-color: blue;
+    height: 5vh;
+}
+
+
+
